@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pruebas unitarias usando Mockito
 
 Se ha creado la clase PersonServiceTest.java para la ejecución de las pruebas unitarias.
@@ -52,3 +53,6 @@ Se confirma en la base de datos que fue eliminada.
 
 
 
+=======
+# apirest1B
+>>>>>>> ca198232cf1c33d4e70fc7e76ac2847c7a29fa01

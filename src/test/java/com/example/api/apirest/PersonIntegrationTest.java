@@ -43,4 +43,3 @@ class PersonIntegrationTest {
         assertThat(personRepository.findAll()).isNotEmpty();
     }
 }
-
